@@ -17,4 +17,4 @@ password : 123
 [http://apk2i.co.id/](http://apk2i.co.id/)
 
 ### 3. Web Course BuildWith Angga (Laravel)
-[https://buildwithangga.com/]([https://buildwithangga.com/)
+[https://buildwithangga.com](https://buildwithangga.com)
